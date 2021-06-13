@@ -1,5 +1,6 @@
 # Adversarial-Attack-on-OpenFace
-Realization of the paper attached.
+Realization of the paper attached: Unravelling Robustness of Deep Learning Based
+Face Recognition against Adversarial Attacks
 
 ## Execution
 In order to successfully execute this code, open the .ipynb file in google collab. Upload the rest of the files in the files sections. Another file  I couldn't upload due to size also needs to be added in files section - download 

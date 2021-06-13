@@ -5,7 +5,7 @@ Realization of the paper attached.
 In order to successfully execute this code, open the .ipynb file in google collab. Upload the rest of the files in the files sections. Another file  I couldn't upload due to size also needs to be added in files section - download 
 the file from this link - https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat  
 
-Filename: shape_predictor_68_face_landmarks.dat
+Filename: `shape_predictor_68_face_landmarks.dat`
 ## Implementation of Attacks
 To implement the digital adversarial attacks, we used OpenFace for Facial Recognition. Before moving on to the attacks, the implementation description of OpenFace Recognition System is provided. Followed by the OpenFace overview are the digital attacks that we implemented which includes Grid-based Occlusion, Most Significant Bit-based attack, and Eye-Region Based Occlusion. 
 
@@ -48,6 +48,7 @@ After successfully identifying facial landmarks using the DLIB library we draw o
 
 ![image](https://user-images.githubusercontent.com/68595241/121817267-b72a5700-cc99-11eb-879b-56d58a9503c5.png)
 
+
 ![image](https://user-images.githubusercontent.com/68595241/121817276-c5787300-cc99-11eb-87c6-ed19a0a50a1e.png)
 
 #### Most Significant Bit-Based Attack
@@ -67,9 +68,17 @@ The result of the most significant bit-based attack implemented on an image is s
 This section sums up the implementation that we have done so far.
 
 Group Members:
+
+
 Shanzay Gauhar
+
+
 Fatima Hasan
+
+
 Nuzha Khalid
+
+
 Samra Fakhar
 
 

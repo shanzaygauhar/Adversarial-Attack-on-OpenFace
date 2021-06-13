@@ -1,5 +1,5 @@
 # Adversarial-Attack-on-OpenFace
-Realization of the paper attached: Unravelling Robustness of Deep Learning Based
+Realization of the paper attached: `Unravelling Robustness of Deep Learning Based`
 Face Recognition against Adversarial Attacks
 
 ## Execution
